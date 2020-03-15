@@ -1,5 +1,6 @@
 package com.usbaitass.greetgo.demotest.model;
 
+
 public class Data {
     private Long id;
     private String value;
